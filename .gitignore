@@ -3,6 +3,14 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+.vscode
+*.tar
+LINEMOD
+VOCdevkit
+backup
+multi_obj_pose_estimation/backup_multi
+cfg/darknet19_448.conv.23
+
 # User-specific files
 *.suo
 *.user
